@@ -1,3 +1,16 @@
+# changed features
+1. Install Inno, need to install in the website 
+
+https://jrsoftware.org/isdl.php#stable
+
+2 . add new version support 
+
+get_R.R fix 1-3 to 1-9
+code_section.R fix  1-3 to 1-9
+
+sa suggested by 
+https://github.com/ficonsulting/RInno/pull/156/files
+
 
 # RInno <img src="man/figures/RInno.png" align="right" height=140/>
 
